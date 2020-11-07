@@ -1,5 +1,5 @@
-# Hey Guys :D, I´m Matheus Paiva 
-## I'm studying programming, web development and design
+<h1 align="center"> Hey Guys :D, I´m Matheus Paiva </h1>
+<h2 align="center"> I'm studying programming, web development and design </h2>
 <br>
 
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
