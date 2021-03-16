@@ -2,7 +2,7 @@
 <h2 align="center"> I'm studying programming, web development and design </h2>
 <br>
 
-![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
+
 <ul>
 <li> 🚀 I participate in the DevInDev community
 <li> 👨‍💻 I am studying <b> Javascript, HTML, CSS, Java, PHP and C++ </b>
