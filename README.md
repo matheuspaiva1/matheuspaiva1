@@ -5,7 +5,7 @@
 
 <ul>
 <li> 🚀 I participate in the DevInDev community
-<li> 👨‍💻 I am studying <b> Javascript, HTML, CSS, Java, PHP and C++ </b>
+<li> 👨‍💻 I am studying <b> Javascript, HTML, CSS, Java and PHP  </b>
 <li> 📸 My Instagram: <a href = "https://www.instagram.com/matheuspaiva000/"> Matheuspaiva000 </a>
 <li> 📩 Email: <a href = "matheuspaiva0007@gmail.com"> matheuspaiva0007@gmail.com </a>
 
