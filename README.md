@@ -5,7 +5,7 @@
 
 <ul>
 <li> 👨‍💻 I am studying <b> Javascript, HTML, CSS, Java, Phyton  </b>
-<li> 📸 My Instagram: <a href = "https://www.instagram.com/matheuspaiva000/"> matheuspaiva000 </a>
+<li> 📸 My Instagram: <a href = "https://www.instagram.com/matheuss.p00/"> matheuss.p00 </a>
 <li> 📩 Email: <a href = "matheuspaiva0007@gmail.com"> matheuspaiva0007@gmail.com </a>
 
 </ul>
