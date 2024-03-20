@@ -1,5 +1,5 @@
 <h1 align="center"> Hey Guys :D, I´m Matheus Paiva </h1>
-<h2 align="center"> I'm studying programming, web development and design </h2>
+<h2 align="center"> I'm studying programming and web development </h2>
 <br>
 
 
