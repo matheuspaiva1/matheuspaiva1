@@ -4,7 +4,8 @@
 
 
 <ul>
-<li> 👨‍💻 I am studying <b> Javascript, HTML, CSS, Java, Phyton  </b>
+<li> 👨‍💻 I am studying I'm a student at the Federal University of Ceará, I'm studying Information Systems in the 3rd semester  </b>
+<li> 📕 I'm currently studying ReactJS, NextJS, TailwindCSS, LaravelPHP  </b>
 <li> 📸 My Instagram: <a href = "https://www.instagram.com/matheuss.p00/"> matheuss.p00 </a>
 <li> 📩 Email: <a href = "matheuspaiva0007@gmail.com"> matheuspaiva0007@gmail.com </a>
 
