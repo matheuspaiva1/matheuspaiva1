@@ -5,7 +5,7 @@
 
 <ul>
 <li> 👨‍💻 I'm a student at the Federal University of Ceará, I'm studying Information Systems in the 3rd semester  </b>
-<li> 📕 I'm currently studying ReactJS, NextJS, TailwindCSS, LaravelPHP  </b>
+<li> 📕 I'm currently studying ReactJS, NextJS, TailwindCSS, LaravelPHP, WordPress </b>
 <li> 📸 My Instagram: <a href = "https://www.instagram.com/matheuss.p00/"> @matheuss.p00 </a>
 <li> 🪪 My LinkedIn: <a href = "https://www.linkedin.com/in/matheus-paiva-51b1751b1/"> matheuspaiva1 </a>
 <li> 📩 Email: <a href = "matheuspaiva0007@gmail.com"> matheuspaiva0007@gmail.com </a>
