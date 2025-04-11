@@ -4,7 +4,7 @@
 
 
 <ul>
-<li> 👨‍💻 I'm a student at the Federal University of Ceará, I'm studying Information Systems in the 4rd semester  </b>
+<li> 👨‍💻 I'm a student at the Federal University of Ceará, I'm studying Information Systems in the 5rd semester  </b>
 <li> 📸 My Instagram: <a href = "https://www.instagram.com/matheuss.p00/"> @matheuss.p00 </a>
 <li> 🪪 My LinkedIn: <a href = "https://www.linkedin.com/in/matheus-paiva-51b1751b1/"> matheuspaiva1 </a>
 <li> 🌐 My Website: <a href = "https://portfolio-dev-chi.vercel.app/">Website</a>
